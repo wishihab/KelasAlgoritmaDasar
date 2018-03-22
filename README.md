@@ -1,2 +1,2 @@
 # KelasAlgoritmaDasar
-Class Algorithm - Documentation 2014 Esa Unggul
+Algorithm Class - Documentation 2014 Esa Unggul
